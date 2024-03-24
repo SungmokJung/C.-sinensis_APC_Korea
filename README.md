@@ -1,4 +1,4 @@
-# CClonorchis_-sinensis_APC_Korea
+# Clonorchis_sinensis_APC_Korea
 
 Underlying code for Jung et al. "Age, period, and cohort effects of Clonorchis sinensis infection prevalence in the Republic of Korea: insights and projections"
 
